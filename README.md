@@ -11,9 +11,10 @@
 ### ⚙️ &nbsp;Languages 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) \
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) \
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat) \
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) \
-![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java) \
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat)
+![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) 
